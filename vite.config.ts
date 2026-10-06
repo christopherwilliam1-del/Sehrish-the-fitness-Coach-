@@ -5,9 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    // Relative paths make the Vite build work on any GitHub Pages
-    // repository name without needing to edit this file again.
-    base: './',
+    base: '/Sehrish-the-fitness-Coach-/',
 
     plugins: [react(), tailwindcss()],
 
