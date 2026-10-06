@@ -1,0 +1,6 @@
+{
+  "name": "Sehrish Mall | Fitness, Training & Wellness",
+  "description": "Personal fitness brand, structured training programs, and free wellness resources by Sehrish Mall (@sehrish.mall). Build strength, confidence, and sustainable fitness habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
